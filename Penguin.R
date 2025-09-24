@@ -4,3 +4,5 @@ View(penguin)
 install.packages("tidyverse")
 library(tidyverse)
 BodyByFlipper <- lm(body_mass_g ~ flipper_length_mm)
+#PenguinsPenguins#Penguins
+Pen <- "guin""
